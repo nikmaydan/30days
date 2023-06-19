@@ -1,2 +1,2 @@
 # 30days
-30 days of code challenge on HackerRank
+repo for my 30 days of code challenge on HackerRank
