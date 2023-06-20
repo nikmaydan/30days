@@ -17,9 +17,11 @@ import sys
 
 def solve(meal_cost, tip_percent, tax_percent):
     # Write your code here
-    tip = meal_cost * (tip_percent / 100)
-    tax = meal_cost * (tax_percent / 100)
-    total = int(meal_cost + tip + tax)
+    tip = float(meal_cost * (tip_percent / 100))
+    #print(tip)
+    tax = float(meal_cost * (tax_percent / 100))
+    #print(tax)
+    total = round(meal_cost + tip + tax)
     print(total)
 
 if __name__ == '__main__':
