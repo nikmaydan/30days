@@ -1,0 +1,9 @@
+3
+
+output
+Weird
+
+
+24
+
+output Not Weird
