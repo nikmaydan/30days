@@ -1,0 +1,9 @@
+input
+2
+Hacker
+Rank
+
+output
+Hce akr
+Rn ak
+
