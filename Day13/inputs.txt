@@ -1,0 +1,9 @@
+input
+The Alchemist
+Paulo Coelho
+248
+
+output
+Title: The Alchemist
+Author: Paulo Coelho
+Price: 248
