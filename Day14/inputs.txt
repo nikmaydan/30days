@@ -1,0 +1,20 @@
+input
+3
+1 2 5
+
+output
+4
+
+input
+5
+8 19 3 2 7
+
+output
+17
+
+input
+5
+8 8 8 8 8
+
+output
+0
