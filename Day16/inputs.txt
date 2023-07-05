@@ -1,0 +1,11 @@
+input
+3
+
+output
+3
+
+input
+za
+
+output
+Bad String
