@@ -1,0 +1,11 @@
+input
+racecar
+
+output
+The word, racecar, is a palindrome.
+
+input
+yes
+
+output
+The word, yes, is not a palindrome.
