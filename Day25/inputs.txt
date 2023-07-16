@@ -1,0 +1,36 @@
+input
+3
+12
+5
+7
+
+output
+Not prime
+Prime
+Prime
+
+input
+2
+31
+33
+
+output
+Prime
+Not prime
+
+input
+3
+1000000007
+100000003
+1000003
+
+output
+Prime
+Not prime
+
+input
+1
+1
+
+output
+Not prime
